@@ -265,7 +265,6 @@ database["kevin"] = img_to_encoding("images/kevin.jpg", FRmodel)
 database["felix"] = img_to_encoding("images/felix.jpg", FRmodel)
 database["benoit"] = img_to_encoding("images/benoit.jpg", FRmodel)
 database["arnaud"] = img_to_encoding("images/arnaud.jpg", FRmodel)
-database["arnaud"] = img_to_encoding("images/arnaud.jpg", FRmodel)
 database["adam"] = img_to_encoding("images/adam1.jpg", FRmodel)
 
 
